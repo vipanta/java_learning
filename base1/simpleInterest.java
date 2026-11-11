@@ -1,11 +1,10 @@
 package base1;
-import java.io.*;
+
 
 public class simpleInterest {
     public static void main(String args[])
     {
-        // We can change values here for
-        // different inputs
+       
         float P = 1, R = 1, T = 1;
 
         /* Calculate simple interest */
